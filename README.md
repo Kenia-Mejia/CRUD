@@ -1,1 +1,1 @@
-# CRUD
+Lee, Actualiza, Elimina
